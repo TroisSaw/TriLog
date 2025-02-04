@@ -1,5 +1,5 @@
 # ![32x32](https://github.com/user-attachments/assets/9580848e-c90e-4c8e-a6ba-f07795424620) TriLog 
-定时训练记录器
+————基于tauri的定时训练记录器
 
 ![{58D74A80-96A4-4651-BA6A-BA931B6936F8}](https://github.com/user-attachments/assets/e6db989f-5c86-46dd-a9e7-4ddc06859c73)
 
