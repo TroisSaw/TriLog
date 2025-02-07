@@ -1,7 +1,7 @@
 # ![32x32](https://github.com/user-attachments/assets/9580848e-c90e-4c8e-a6ba-f07795424620) TriLog 
 ——基于tauri的定时训练记录器
 
-![{E3D6640B-D0A0-4215-80B9-7B627DA0FC37}](https://github.com/user-attachments/assets/a752d052-791b-403e-87fe-710c43705ccf)
+![{1EB0AFA7-D347-4B3D-B362-59962E9AE689}](https://github.com/user-attachments/assets/2c4aff6a-f85f-416a-b3e1-8c5e4dd866aa)
 
 | **按键操作**             | **功能**         |
 | :----------------------- | ---------------- |
